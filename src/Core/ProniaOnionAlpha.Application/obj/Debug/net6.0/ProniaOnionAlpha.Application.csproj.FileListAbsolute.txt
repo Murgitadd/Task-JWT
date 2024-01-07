@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\ProniaOnionAlpha\src\Core\ProniaOnionAlpha.Application\obj\Debug\net6.0\ProniaOnionAlpha.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\ProniaOnionAlpha\src\Core\ProniaOnionAlpha.Application\obj\Debug\net6.0\ProniaOnionAlpha.Application.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\ProniaOnionAlpha\src\Core\ProniaOnionAlpha.Application\obj\Debug\net6.0\ProniaOnionAlpha.Application.AssemblyInfo.cs
+C:\Users\hp\source\repos\ProniaOnionAlpha\src\Core\ProniaOnionAlpha.Application\obj\Debug\net6.0\ProniaOnionAlpha.Application.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ProniaOnionAlpha\src\Core\ProniaOnionAlpha.Application\obj\Debug\net6.0\ProniaOnionAlpha.Application.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\ProniaOnionAlpha\src\Core\ProniaOnionAlpha.Application\bin\Debug\net6.0\ProniaOnionAlpha.Application.deps.json
+C:\Users\hp\source\repos\ProniaOnionAlpha\src\Core\ProniaOnionAlpha.Application\bin\Debug\net6.0\ProniaOnionAlpha.Application.dll
+C:\Users\hp\source\repos\ProniaOnionAlpha\src\Core\ProniaOnionAlpha.Application\bin\Debug\net6.0\ProniaOnionAlpha.Application.pdb
+C:\Users\hp\source\repos\ProniaOnionAlpha\src\Core\ProniaOnionAlpha.Application\bin\Debug\net6.0\ProniaOnionAlpha.Domain.dll
+C:\Users\hp\source\repos\ProniaOnionAlpha\src\Core\ProniaOnionAlpha.Application\bin\Debug\net6.0\ProniaOnionAlpha.Domain.pdb
+C:\Users\hp\source\repos\ProniaOnionAlpha\src\Core\ProniaOnionAlpha.Application\obj\Debug\net6.0\ProniaOnionAlpha.Application.csproj.CopyComplete
+C:\Users\hp\source\repos\ProniaOnionAlpha\src\Core\ProniaOnionAlpha.Application\obj\Debug\net6.0\ProniaOnionAlpha.Application.dll
+C:\Users\hp\source\repos\ProniaOnionAlpha\src\Core\ProniaOnionAlpha.Application\obj\Debug\net6.0\refint\ProniaOnionAlpha.Application.dll
+C:\Users\hp\source\repos\ProniaOnionAlpha\src\Core\ProniaOnionAlpha.Application\obj\Debug\net6.0\ProniaOnionAlpha.Application.pdb
+C:\Users\hp\source\repos\ProniaOnionAlpha\src\Core\ProniaOnionAlpha.Application\obj\Debug\net6.0\ref\ProniaOnionAlpha.Application.dll

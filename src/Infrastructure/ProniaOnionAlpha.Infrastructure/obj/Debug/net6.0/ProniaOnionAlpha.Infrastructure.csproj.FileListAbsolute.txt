@@ -1,0 +1,17 @@
+C:\Users\hp\source\repos\ProniaOnionAlpha\src\Infrastructure\ProniaOnionAlpha.Infrastructure\bin\Debug\net6.0\ProniaOnionAlpha.Infrastructure.deps.json
+C:\Users\hp\source\repos\ProniaOnionAlpha\src\Infrastructure\ProniaOnionAlpha.Infrastructure\bin\Debug\net6.0\ProniaOnionAlpha.Infrastructure.dll
+C:\Users\hp\source\repos\ProniaOnionAlpha\src\Infrastructure\ProniaOnionAlpha.Infrastructure\bin\Debug\net6.0\ProniaOnionAlpha.Infrastructure.pdb
+C:\Users\hp\source\repos\ProniaOnionAlpha\src\Infrastructure\ProniaOnionAlpha.Infrastructure\obj\Debug\net6.0\ProniaOnionAlpha.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\ProniaOnionAlpha\src\Infrastructure\ProniaOnionAlpha.Infrastructure\obj\Debug\net6.0\ProniaOnionAlpha.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\ProniaOnionAlpha\src\Infrastructure\ProniaOnionAlpha.Infrastructure\obj\Debug\net6.0\ProniaOnionAlpha.Infrastructure.AssemblyInfo.cs
+C:\Users\hp\source\repos\ProniaOnionAlpha\src\Infrastructure\ProniaOnionAlpha.Infrastructure\obj\Debug\net6.0\ProniaOnionAlpha.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ProniaOnionAlpha\src\Infrastructure\ProniaOnionAlpha.Infrastructure\obj\Debug\net6.0\ProniaOnionAlpha.Infrastructure.dll
+C:\Users\hp\source\repos\ProniaOnionAlpha\src\Infrastructure\ProniaOnionAlpha.Infrastructure\obj\Debug\net6.0\refint\ProniaOnionAlpha.Infrastructure.dll
+C:\Users\hp\source\repos\ProniaOnionAlpha\src\Infrastructure\ProniaOnionAlpha.Infrastructure\obj\Debug\net6.0\ProniaOnionAlpha.Infrastructure.pdb
+C:\Users\hp\source\repos\ProniaOnionAlpha\src\Infrastructure\ProniaOnionAlpha.Infrastructure\obj\Debug\net6.0\ref\ProniaOnionAlpha.Infrastructure.dll
+C:\Users\hp\source\repos\ProniaOnionAlpha\src\Infrastructure\ProniaOnionAlpha.Infrastructure\obj\Debug\net6.0\ProniaOnionAlpha.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\ProniaOnionAlpha\src\Infrastructure\ProniaOnionAlpha.Infrastructure\bin\Debug\net6.0\ProniaOnionAlpha.Application.dll
+C:\Users\hp\source\repos\ProniaOnionAlpha\src\Infrastructure\ProniaOnionAlpha.Infrastructure\bin\Debug\net6.0\ProniaOnionAlpha.Domain.dll
+C:\Users\hp\source\repos\ProniaOnionAlpha\src\Infrastructure\ProniaOnionAlpha.Infrastructure\bin\Debug\net6.0\ProniaOnionAlpha.Application.pdb
+C:\Users\hp\source\repos\ProniaOnionAlpha\src\Infrastructure\ProniaOnionAlpha.Infrastructure\bin\Debug\net6.0\ProniaOnionAlpha.Domain.pdb
+C:\Users\hp\source\repos\ProniaOnionAlpha\src\Infrastructure\ProniaOnionAlpha.Infrastructure\obj\Debug\net6.0\ProniaOnionAlpha.Infrastructure.csproj.CopyComplete
